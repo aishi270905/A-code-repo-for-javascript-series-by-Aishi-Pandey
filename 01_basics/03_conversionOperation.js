@@ -19,3 +19,27 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(someNumber)
 console.log(typeof stringNumber)
+
+//**************Operations*************
+
+let value = 3
+let negValue = -value
+console.log(negValue)
+console.log(2**2)//power => 2^2
+
+let str1 = "Hello"
+let str2 = "Aishi"
+let str3 = str1+str2
+console.log(str3)
+
+console.log("1" + 2 + 2)
+console.log(1 + 2 + "2")
+console.log(1 + "2")
+
+console.log(null > 0)  //comparisons(><>=<=) works differently than equiality check.Conversion converts null to a number(0)
+console.log(null == 0)
+console.log(null >= 0)
+
+console.log("2" === 2) //checks strictly as if checks its datatype also
+
+

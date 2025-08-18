@@ -11,8 +11,8 @@ const bigNumber = 2345678456789345678n //save as BigInt
 
 const heros = ["Shaktiman", "Nagraj", "Doga"] //Array
 let myObj = {
-    name: "Aishi";
-    age:19;
+    name: "Aishi",
+    age:19,
 } // object
 const myFunction = function (){
     console.log("Hello world");
@@ -23,3 +23,6 @@ console.log(typeof bigNumber)
 
 //JAVASCRIPT IS DYNAMICALLY TYPED
 
+//-------------------------------------------------------------------------
+
+//stack(Primitive), Heap(Non-Primitive)
