@@ -1,4 +1,4 @@
-//singleton
+//crearion of objects: 1)singleton(declaring using constructors)  2)literals
 
 //object literals
 
