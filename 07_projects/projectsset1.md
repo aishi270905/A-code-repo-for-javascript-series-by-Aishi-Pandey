@@ -61,7 +61,7 @@ form.addEventListener('submit', function(e){
 });
 
 ```
-##project 3
+## project 3
 
 ```javascript
 
@@ -75,7 +75,7 @@ setInterval(function(){
 }, 1000);
 
 ```
-##project 4
+## project 4
 
 ```javascript
    let randomNumber = parseInt(Math.random() * 100 + 1);
